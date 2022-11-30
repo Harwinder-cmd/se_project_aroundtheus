@@ -19,6 +19,7 @@
   height: 282px;
   border: none;
   border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 .card__info {
   display: flex;
@@ -43,8 +44,7 @@
 .card__like-button {
   width: 21px;
   height: 18px;
-  background: url("../images/like-heart.svg") center no-repeat;
-  background-color: white;
+  background: url(../images/like-heart.svg) center no-repeat;
   background-size: cover;
   border: none;
   flex-shrink: 0;
