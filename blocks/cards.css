@@ -45,6 +45,7 @@
   width: 21px;
   height: 18px;
   background: url(../images/like-heart.svg) center no-repeat;
+  color: #fff;
   background-size: cover;
   border: none;
   flex-shrink: 0;

@@ -36,7 +36,7 @@
   grid-area: edit-button;
   cursor: pointer;
   box-sizing: border-box;
-  background: url(../images/edit-button.svg) center no-repeat;
+  background: transparent url(../images/edit-button.svg) center no-repeat;
   background-size: contain;
   width: 18px;
   height: 18px;
